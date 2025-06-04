@@ -1,4 +1,4 @@
-# 👨‍💻 Víctor Fernández Lamela – Alumno en Prácticas | Proyecto Docker + Drupal
+# 👨‍💻 Víctor Fernández – Alumno en Prácticas | Proyecto Docker + Drupal
 
 ¡Hola! Soy **Víctor Fernández Lamela**, estudiante del Ciclo Superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, actualmente realizando mis **prácticas en empresa**.  
 Este repositorio es parte de mi trabajo formativo, donde estoy aprendiendo a desarrollar y desplegar entornos profesionales utilizando tecnologías reales como **Docker** y **Drupal**.
