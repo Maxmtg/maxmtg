@@ -1,140 +1,133 @@
-# 👋 Hola, soy Víctor Fernández Lamela
+# Víctor Fernández Lamela
 
-### Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM) | React · Java · Docker · Backend · IA
+**Desarrollador junior · DAM · React · Java · SQL · Supabase · Docker**
 
-Soy titulado en el Ciclo Superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y estoy construyendo mi perfil profesional combinando desarrollo de software, backend, bases de datos, despliegues, automatización e inteligencia artificial.
+Soy titulado en **Desarrollo de Aplicaciones Multiplataforma** y estoy orientando mi perfil profesional hacia el desarrollo de software, aplicaciones web, bases de datos, despliegues y soluciones SaaS.
 
-Actualmente estoy centrado en crear proyectos reales que me sirvan como portfolio profesional, especialmente aplicaciones web, paneles de gestión, soluciones SaaS, automatizaciones y entornos desplegables.
-
----
-
-## 🚀 Proyecto principal actual
-
-### 🛠️ Incidencias Fácil
-
-**Incidencias Fácil** es una aplicación web tipo SaaS para gestionar incidencias, averías y tareas con fotos.
-
-Está pensada para:
-
-- comunidades de vecinos
-- administradores de fincas
-- edificios
-- casas rurales
-- inmobiliarias
-- empresas de mantenimiento
-- empresas de limpieza
-
-El objetivo es evitar que los avisos se pierdan entre WhatsApp, llamadas, correos y fotos sueltas.
-
-### Funcionalidades actuales
-
-- Dashboard de incidencias
-- Gestión por organizaciones
-- Planes Lite, Pro y Premium
-- Formulario público de reporte
-- Incidencias con foto
-- Estados, prioridades y responsables
-- Vista Kanban
-- Exportación CSV/PDF
-- Asistente IA demo
-- Integración con IA real en pruebas
-- Diseño responsive
-- Preparación para SaaS multiempresa
-
-### Tecnologías usadas
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+Vengo de un entorno técnico sanitario, donde he trabajado con protocolos, trazabilidad, control de calidad, datos y resolución de incidencias en entornos reales. Actualmente estoy construyendo proyectos propios para consolidar mi perfil como desarrollador junior, aplicando tecnologías actuales y buenas prácticas de desarrollo.
 
 ---
 
-## 🧩 Otros proyectos y aprendizaje
+## Stack técnico
 
-### 🐳 Docker + Drupal
+**Frontend**
+React · Vite · JavaScript · HTML · CSS
 
-Proyecto formativo para practicar el despliegue de un entorno Drupal usando Docker y Docker Compose.
+**Backend / BaaS**
+Supabase · Edge Functions · Node.js en aprendizaje
 
-Con este proyecto he trabajado:
+**Bases de datos**
+PostgreSQL · SQL · SQLite · MySQL
 
-- creación de entornos reproducibles
-- contenedores
-- bases de datos
-- despliegue local
-- documentación técnica
-- organización de proyectos backend
+**Java / DAM**
+Java · JavaFX · Android · JDBC · Programación orientada a objetos
 
-Tecnologías:
+**DevOps / herramientas**
+Git · GitHub · Docker · Docker Compose · DDEV · Cloudflare Pages
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+**Integraciones y servicios**
+Stripe · Resend · Cloudflare Turnstile · OpenAI API
 
 ---
 
-## 🧠 Qué estoy reforzando actualmente
+## Proyecto principal
 
-Actualmente estoy ampliando y consolidando conocimientos en:
+### Incidencia Fácil
 
-- Desarrollo frontend con React
-- Backend y APIs
-- Java y programación orientada a objetos
-- SQLite, MySQL y bases de datos
-- Docker y despliegues
-- Git y GitHub
-- Automatización con IA
-- Arquitectura SaaS
-- Seguridad básica y buenas prácticas
-- Infraestructura digital
+Aplicación web tipo **SaaS** para gestionar incidencias mediante QR.
 
----
+Está pensada para comunidades, alojamientos, administradores, negocios locales y equipos de mantenimiento que necesitan centralizar avisos, fotos, estados y seguimiento operativo sin depender de WhatsApp, llamadas o correos sueltos.
 
-## 🛠️ Tecnologías que estoy usando
+**Funcionalidades principales**
 
-```text
-Frontend: React, Vite, JavaScript, CSS
-Backend: Java, Node.js en aprendizaje
-Bases de datos: SQLite, MySQL
-DevOps: Docker, Docker Compose, Git, GitHub, Vercel
-IA: ChatGPT, OpenAI API, asistentes de código
-```
+* Panel privado de gestión.
+* Organizaciones y usuarios por rol.
+* Planes Lite, Pro y Premium.
+* Alta y facturación con Stripe.
+* Customer Portal.
+* Formularios públicos mediante QR.
+* Incidencias con foto.
+* Estados, prioridades, categorías y responsables.
+* Vista lista y Kanban.
+* Invitaciones de miembros por email.
+* Recuperación de contraseña.
+* Emails transaccionales con Resend.
+* Protección anti-abuso con Cloudflare Turnstile.
+* Exportación CSV/PDF.
+* Despliegue real con dominio propio.
 
----
+**Tecnologías usadas**
 
-## 🎯 Objetivo profesional
-
-Mi objetivo es consolidar mi perfil como desarrollador, creando proyectos reales y útiles que combinen:
-
-- desarrollo de aplicaciones
-- automatización
-- paneles de gestión
-- soluciones para negocios locales
-- infraestructura digital
-- herramientas apoyadas en inteligencia artificial
-
-Busco construir un portfolio sólido, práctico y orientado a problemas reales.
+React · Vite · JavaScript · CSS · Supabase · PostgreSQL · RLS/RPC · Edge Functions · Stripe · Resend · Cloudflare Pages · Cloudflare Turnstile · Git · GitHub
 
 ---
 
-## 📌 Repositorios destacados
+## Otros proyectos
 
-- **Incidencias Fácil** — SaaS para gestión de incidencias y reportes.
-- **Docker + Drupal** — entorno de desarrollo con contenedores.
-- **Gestor de gastos personales** — proyecto Android/Java/SQLite.
+### Planificador de estudios
 
----
+Aplicación desarrollada con **Java, JavaFX y SQLite** para gestionar tareas, calendario, estadísticas y persistencia local.
 
-## 📫 Contacto
-
-Puedes encontrarme en GitHub como:
-
-**@Maxmtg**
+**Tecnologías:** Java · JavaFX · SQLite · JDBC · FXML
 
 ---
 
-> Aprendiendo paso a paso, construyendo proyectos reales y convirtiendo ideas en software funcional.
+### Gestor de gastos personales
+
+Proyecto orientado a gestión de gastos y persistencia local, desarrollado como práctica de aplicaciones con base de datos.
+
+**Tecnologías:** Java · Android · SQLite
+
+---
+
+### Drupal + Docker / DDEV
+
+Entorno de desarrollo reproducible para trabajar con Drupal usando contenedores.
+
+**Tecnologías:** Drupal · Docker · Docker Compose · DDEV · MySQL · Git
+
+---
+
+### DPTelemetry
+
+Trabajo sobre un proyecto backend con Symfony, Docker, MySQL y API documentada.
+
+**Tecnologías:** Symfony · Docker · MySQL · Swagger/OpenAPI · Unity
+
+---
+
+## En qué estoy trabajando ahora
+
+Actualmente estoy reforzando:
+
+* Arquitectura de aplicaciones SaaS.
+* Autenticación, roles y permisos.
+* Modelado de bases de datos relacionales.
+* Backend con Supabase y Edge Functions.
+* Despliegues cloud.
+* Integraciones externas.
+* Seguridad básica en aplicaciones web.
+* Automatización e IA aplicada al desarrollo.
+
+---
+
+## Objetivo profesional
+
+Busco oportunidades como:
+
+* Desarrollador junior.
+* Técnico de software junior.
+* Frontend junior.
+* Backend junior.
+* Full-stack junior inicial.
+* Soporte técnico con desarrollo y automatización.
+
+Mi objetivo es incorporarme a un equipo donde pueda seguir creciendo, aportar capacidad técnica, orden, atención al detalle y experiencia previa en entornos operativos reales.
+
+---
+
+## Contacto
+
+**GitHub:** [@Maxmtg](https://github.com/Maxmtg)
+**Email:** [victorfernandezlab@gmail.com](mailto:victorfernandezlab@gmail.com)
+**LinkedIn:** añade aquí tu enlace de LinkedIn
