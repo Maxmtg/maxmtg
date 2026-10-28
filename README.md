@@ -1,11 +1,11 @@
 # Víctor Fernández Lamela
 
-### Desarrollador de software Full Stack · SaaS · Automatización e integraciones
+### Desarrollador Full Stack | React · TypeScript · Next.js · PostgreSQL | SaaS, APIs REST y automatización con n8n
 
 Desarrollo productos web propios de extremo a extremo y automatizo flujos de contenido e integración entre servicios. Trabajo con React, TypeScript, Next.js, PostgreSQL y n8n, y uso asistentes de IA como apoyo en el desarrollo, con revisión y validación propias.
 
 📍 Ronda, Málaga · Remoto desde España · Híbrido en Málaga
-🌐 [Portfolio](https://victor-fernandez-portfolio.maxmtg.chatgpt.site)
+🌐 [Portfolio](https://victorfernandezlamela.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/victor-fernandez-lamela/)
 ✉️ [victorfernandezlab@gmail.com](mailto:victorfernandezlab@gmail.com)
 
@@ -17,14 +17,15 @@ Desarrollo productos web propios de extremo a extremo y automatizo flujos de con
 
 Producto SaaS para reportar y gestionar incidencias mediante códigos QR: del aviso público sin registro al panel privado con estados, roles, permisos y trazabilidad.
 
-* Estado: producto en desarrollo, con demo pública que usa datos simulados.
+* Estado: producto en desarrollo, con demo pública que usa datos simulados. No se declaran ventas ni clientes.
+* Formularios públicos mediante QR, sin registro.
 * Vistas de lista y Kanban en el panel.
 * Gestión multiempresa: varias organizaciones con usuarios, roles y permisos.
 * Seguridad a nivel de fila (Row Level Security) en PostgreSQL.
 * Informes PDF.
 * Integración con Stripe exclusivamente en modo de pruebas; no hay cobros reales.
 
-`React` `JavaScript` `Vite` `Supabase` `PostgreSQL` `Row Level Security` `Stripe (modo de pruebas)`
+`React` `Vite` `Supabase` `PostgreSQL` `Row Level Security` `Stripe (modo de pruebas)`
 
 🚀 [Demo interactiva](https://incidenciafacil.com/demo) · 📘 [Caso de estudio](https://github.com/Maxmtg/incidencia-facil-showcase)
 
@@ -32,27 +33,28 @@ Producto SaaS para reportar y gestionar incidencias mediante códigos QR: del av
 
 Producto editorial publicado: catálogo, búsqueda, colecciones y fichas de recetas inspiradas en cine, series, anime y videojuegos, con contenido versionado y despliegue en producción.
 
-* CI/CD con GitHub Actions (varios flujos de trabajo).
-* Pruebas automatizadas con Vitest.
+* Validaciones y pruebas automatizadas con Vitest.
+* GitHub Actions para comprobaciones y CI/CD.
+* Publicación controlada: los despliegues a producción se lanzan de forma deliberada.
 * Código en repositorio privado.
 
-`Next.js` `React` `TypeScript` `Vitest` `GitHub Actions`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Vitest` `GitHub Actions`
 
 🌐 [escenaalplato.com](https://escenaalplato.com/es)
 
 ### 3. Crónicas del Cosmos y Cosmos HD
 
-Automatización editorial: integración de fuentes, normalización, selección y validación de contenido para su publicación en WordPress con n8n. La automatización y la revisión editorial están diferenciadas; no es un sistema autónomo permanente.
+Proyecto editorial con procesos de contenido sobre WordPress, APIs REST y n8n: integración de fuentes, normalización, selección y validación, con revisión humana. La distribución en redes se programa con Metricool; una publicación programada no equivale a una publicada, y no se presenta como automatización continua. Cosmos HD es el canal de vídeo asociado, sin cifras de audiencia.
 
-`n8n` `WordPress` `JavaScript` `APIs REST`
+`WordPress` `APIs REST` `n8n` `JavaScript` `Metricool`
 
 🌐 [cronicasdelcosmos.com](https://cronicasdelcosmos.com) · 📘 [Caso de estudio](https://github.com/Maxmtg/cronicas-del-cosmos-showcase)
 
 ### 4. Domotikum
 
-Producto editorial de guías, reseñas y comparativas de tecnología doméstica, con contexto de compatibilidad y enlaces de afiliación identificados. No se muestran precios ni stock en tiempo real.
+Web real de guías, reseñas y comparativas de tecnología doméstica, con catálogo estructurado, SEO técnico y enlaces de afiliación identificados. No se muestran precios ni stock en tiempo real. Tiene un canal de Telegram; los flujos de n8n preparados siguen inactivos hasta su verificación y no se presentan como activos.
 
-`Astro` `SEO editorial` `Contenido estructurado` `Cloudflare`
+`Astro` `Contenido estructurado` `SEO técnico` `Cloudflare`
 
 🌐 [domotikum.com](https://domotikum.com)
 
@@ -69,7 +71,7 @@ Dashboard de portfolio para gestionar solicitudes operativas ficticias, con el c
 * Persistencia versionada en `localStorage` con recuperación ante datos corruptos.
 * Pruebas de dominio e interacción y despliegue con GitHub Actions.
 
-`React` `TypeScript` `Vite` `Vitest` `React Testing Library` `GitHub Actions`
+`React` `TypeScript` `Vite` `Vitest` `GitHub Actions`
 
 🚀 [Ver demostración](https://maxmtg.github.io/react-operations-dashboard/) · 💻 [Ver código](https://github.com/Maxmtg/react-operations-dashboard)
 
@@ -113,5 +115,5 @@ Idiomas: español nativo, inglés B1.
 Abierto a oportunidades de desarrollo Full Stack, productos SaaS y automatización, en remoto desde España.
 
 * [LinkedIn](https://www.linkedin.com/in/victor-fernandez-lamela/)
-* [Portfolio](https://victor-fernandez-portfolio.maxmtg.chatgpt.site)
+* [Portfolio](https://victorfernandezlamela.com)
 * [victorfernandezlab@gmail.com](mailto:victorfernandezlab@gmail.com)
