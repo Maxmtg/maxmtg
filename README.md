@@ -7,7 +7,7 @@ Desarrollo productos web propios de extremo a extremo y automatizo flujos de con
 📍 Ronda, Málaga · Remoto desde España · Híbrido en Málaga
 🌐 [Portfolio](https://victor-fernandez-portfolio.maxmtg.chatgpt.site)
 🔗 [LinkedIn](https://www.linkedin.com/in/victor-fernandez-lamela/)
-✉️ [contacto@victorfernandezlamela.com](mailto:contacto@victorfernandezlamela.com)
+✉️ [victorfernandezlab@gmail.com](mailto:victorfernandezlab@gmail.com)
 
 ---
 
@@ -19,9 +19,12 @@ Producto SaaS para reportar y gestionar incidencias mediante códigos QR: del av
 
 * Estado: producto en desarrollo, con demo pública que usa datos simulados.
 * Vistas de lista y Kanban en el panel.
-* Gestión de usuarios, roles y permisos.
+* Gestión multiempresa: varias organizaciones con usuarios, roles y permisos.
+* Seguridad a nivel de fila (Row Level Security) en PostgreSQL.
+* Informes PDF.
+* Integración con Stripe exclusivamente en modo de pruebas; no hay cobros reales.
 
-`React` `JavaScript` `Vite` `Supabase` `PostgreSQL`
+`React` `JavaScript` `Vite` `Supabase` `PostgreSQL` `Row Level Security` `Stripe (modo de pruebas)`
 
 🚀 [Demo interactiva](https://incidenciafacil.com/demo) · 📘 [Caso de estudio](https://github.com/Maxmtg/incidencia-facil-showcase)
 
@@ -29,7 +32,11 @@ Producto SaaS para reportar y gestionar incidencias mediante códigos QR: del av
 
 Producto editorial publicado: catálogo, búsqueda, colecciones y fichas de recetas inspiradas en cine, series, anime y videojuegos, con contenido versionado y despliegue en producción.
 
-`Next.js` `React` `TypeScript`
+* CI/CD con GitHub Actions (varios flujos de trabajo).
+* Pruebas automatizadas con Vitest.
+* Código en repositorio privado.
+
+`Next.js` `React` `TypeScript` `Vitest` `GitHub Actions`
 
 🌐 [escenaalplato.com](https://escenaalplato.com/es)
 
@@ -107,4 +114,4 @@ Abierto a oportunidades de desarrollo Full Stack, productos SaaS y automatizaci�
 
 * [LinkedIn](https://www.linkedin.com/in/victor-fernandez-lamela/)
 * [Portfolio](https://victor-fernandez-portfolio.maxmtg.chatgpt.site)
-* [contacto@victorfernandezlamela.com](mailto:contacto@victorfernandezlamela.com)
+* [victorfernandezlab@gmail.com](mailto:victorfernandezlab@gmail.com)
